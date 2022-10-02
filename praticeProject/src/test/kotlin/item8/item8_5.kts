@@ -51,4 +51,5 @@ class DoctorActivity : Activity() {
     //프로터피 위임을 사용할 경우
     //private var doctorId : Int by arg(DOCTOR_ID_ARG)
     //private var fromNotification: Boolean by arg(FROM_NOTIFICATION_ARG)
+
 }
